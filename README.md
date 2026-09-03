@@ -1,7 +1,7 @@
 # Eugene Airport Android releases
 
 Public APK downloads and update metadata for the unofficial Eugene Airport Android
-app. The application source code is maintained separately in a private repository.
+app. The application source code is maintained separately in the private `Eugene-Airport-Code` repository.
 
 ## Install the latest version
 
