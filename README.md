@@ -14,7 +14,8 @@ Android may ask you to allow installs from the browser or file manager you used.
 are debug-signed testing builds rather than Google Play releases.
 
 Once version 0.6.0 or newer is installed, the app can check this repository from
-**Settings → App updates** and link directly to newer APKs.
+**Settings → App updates** and link directly to newer APKs. The current release is
+version 0.7.0.
 
 > This is an unofficial prototype. Always confirm flight information with your airline.
 
@@ -22,7 +23,7 @@ Once version 0.6.0 or newer is installed, the app can check this repository from
 
 Browse the [complete release history](RELEASES.md) for every published version.
 Versions 0.3.0 and 0.4.0 have historical release notes only; no APK was attached to
-those original releases. Versions 0.4.1, 0.5.0, and 0.6.0 include Android downloads.
+those original releases. Versions 0.4.1 and newer include Android downloads.
 
 Choose the `.apk` under Assets to install. GitHub's automatic Source code ZIP and
 tar.gz contain this public documentation, not the Android application source.
