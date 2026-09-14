@@ -6,6 +6,7 @@ All published versions are listed here. Dates are the original publication dates
 
 | Version | Originally published (UTC) | Download |
 | --- | --- | --- |
+| [v0.9.2 dependency comparison](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.2) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.2/EUG-Airport-v0.9.2-debug.apk); physical-phone verification pending |
 | [v0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk); physical Pixel update passed Play Protect |
 | [v0.8.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.0) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.0/EUG-Airport-v0.8.0-debug.apk) |
 | [v0.7.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.7.0) | 2026-09-13 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.7.0/EUG-Airport-v0.7.0-debug.apk) |
@@ -23,6 +24,7 @@ then withdrawn after Play Protect blocked installation on the physical test phon
 No downloads of those builds are offered while the cause is investigated. Emulator
 compatibility checks did not predict the physical-phone result.
 
-0.8.1 is the latest release. Its normal in-app update passed Play Protect on the
+0.9.2 is the current dependency comparison; its phone test is pending. The earlier
+0.8.1 normal in-app update passed Play Protect on the
 physical Pixel 8a, retained settings and showed What's new. The 0.8.0 APK remains
 available unchanged.
