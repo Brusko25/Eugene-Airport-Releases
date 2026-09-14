@@ -1,30 +1,22 @@
 # Eugene Airport Android app
 
-A free, unofficial Eugene Airport companion with live arrivals, departures, airport
-information, and food and drink menus.
+A free, unofficial Eugene Airport companion with live arrivals, departures, airport information, and food and drink menus.
 
-**[Download EUG Airport 0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk)**
+**[Download EUG Airport 0.9.3 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.3/EUG-Airport-v0.9.3-debug.apk)**
 
-> **Latest: 0.8.1 — update verified on the physical Pixel 8a.** Play Protect returned
-> SAFE during the normal in-app update from 0.8.0. Installation succeeded, settings
-> were retained, and What's new appeared once. This control contains the 0.8 app
-> with only version identifiers changed; the cause of 0.9's block remains unresolved.
-> The [0.8.0 download](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.0)
-> remains available unchanged. Versions 0.9.0, 0.9.1 and 0.9.2 are withdrawn after Play Protect blocked their installation on the physical test phone.
+> **Latest test candidate: 0.9.3 — physical-phone Play Protect test pending.** This comparison restores 0.8's icons and label encoding while retaining 0.9.2's older dependencies and application logic. The last verified release is [0.8.1](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1). Builds 0.9.0, 0.9.1 and 0.9.2 were withdrawn after Play Protect blocked installation. If this candidate is blocked, stop and report it; do not override the block.
 
 ## Screenshots
 
-Actual EUG Airport 0.8.1 running in an Android emulator. These previews do not establish
-physical-phone Play Protect acceptance. Flight details and times can change. Click an
-image to see it full size. The What's new bullets intentionally repeat 0.8's features.
+Actual 0.9.3 running in an isolated Android emulator with live public flight data. Times and details can change. Click an image for full size. The What's new themed-icon bullet is deliberately stale: this comparison removes themed-icon support while keeping Kotlin changes limited to its version identifier.
 
 | Departures | Arrivals |
 | --- | --- |
-| <a href="images/v0.8.1/departures.png"><img src="images/v0.8.1/departures.png" alt="0.8.1 departure board with destinations, times, gates and flight status" width="280"></a> | <a href="images/v0.8.1/arrivals.png"><img src="images/v0.8.1/arrivals.png" alt="0.8.1 arrival board with origins, times, gates and flight status" width="280"></a> |
+| <a href="images/v0.9.3/departures.png"><img src="images/v0.9.3/departures.png" alt="0.9.3 departure board" width="280"></a> | <a href="images/v0.9.3/arrivals.png"><img src="images/v0.9.3/arrivals.png" alt="0.9.3 arrival board" width="280"></a> |
 
 | Airport guide | What's new |
 | --- | --- |
-| <a href="images/v0.8.1/airport-guide.png"><img src="images/v0.8.1/airport-guide.png" alt="0.8.1 airport guide with dining, parking, transport and accessibility" width="280"></a> | <a href="images/v0.8.1/whats-new.png"><img src="images/v0.8.1/whats-new.png" alt="What's new in 0.8.1 with the unchanged 0.8 feature summary" width="280"></a> |
+| <a href="images/v0.9.3/airport-guide.png"><img src="images/v0.9.3/airport-guide.png" alt="0.9.3 airport guide" width="280"></a> | <a href="images/v0.9.3/whats-new.png"><img src="images/v0.9.3/whats-new.png" alt="0.9.3 highlights with retained themed-icon text" width="280"></a> |
 
 ## Install on your Android phone
 
