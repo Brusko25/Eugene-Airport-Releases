@@ -9,4 +9,4 @@ These show live public flight data at capture time; details and times change. Al
 - airport-guide.png: airport information categories.
 - whats-new.png: version 0.9.5 highlights. The themed-icon claim is deliberately retained for this manifest-label comparison; monochrome/themed-icon support remains absent.
 
-The physical-phone 0.9.4 to 0.9.5 update test is pending. Verified 0.9.4 remains available and will be restored as latest if this candidate is blocked.
+**Withdrawn build:** the physical-phone 0.9.4 to 0.9.5 update was blocked by Play Protect on September 14, 2026. These emulator screenshots are retained as historical evidence and do not establish phone acceptance. Verified 0.9.4 has been restored as latest.
