@@ -6,6 +6,7 @@ All published versions are listed here. Dates are the original publication dates
 
 | Version | Originally published (UTC) | Download |
 | --- | --- | --- |
+| [v0.9.4 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.4) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.4/EUG-Airport-v0.9.4-debug.apk); phone Play Protect test pending |
 | [v0.9.3](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.3) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.3/EUG-Airport-v0.9.3-debug.apk); physical Pixel update passed Play Protect (SAFE) |
 | [v0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk); physical Pixel update passed Play Protect |
 | [v0.8.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.0) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.0/EUG-Airport-v0.8.0-debug.apk) |
@@ -24,4 +25,4 @@ briefly published on 2026-09-14, then withdrawn after Play Protect blocked insta
 on the physical test phone. No downloads of those builds are offered while the cause
 is investigated. Emulator compatibility checks did not predict the phone result.
 
-0.9.3 is the latest verified release. Its normal in-app update from 0.8.1 passed Play Protect on the physical Pixel 8a, retained settings, and showed What's new once. The app reports it is up to date. Earlier 0.8.1 and 0.8.0 APKs remain available unchanged.
+0.9.4 is the latest comparison candidate, with its phone test pending. 0.9.3 is the last verified release. Its normal in-app update from 0.8.1 passed Play Protect on the physical Pixel 8a, retained settings, and showed What's new once. The app reports it is up to date. Earlier 0.8.1 and 0.8.0 APKs remain available unchanged.

@@ -2,21 +2,21 @@
 
 A free, unofficial Eugene Airport companion with live arrivals, departures, airport information, and food and drink menus.
 
-**[Download EUG Airport 0.9.3](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.3/EUG-Airport-v0.9.3-debug.apk)**
+**[Download EUG Airport 0.9.4 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.4/EUG-Airport-v0.9.4-debug.apk)**
 
-> **Latest: 0.9.3 — update verified on the physical Pixel 8a.** The normal in-app update from 0.8.1 passed Play Protect with a SAFE verdict and installed successfully. Settings were retained, What's new appeared once, and the app reports it is up to date. This build retains the maintenance fixes and older dependencies while restoring the older icons and app label. [0.8.1](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1) remains available; 0.9.0, 0.9.1 and 0.9.2 remain withdrawn.
+> **Latest test candidate: 0.9.4 — physical-phone Play Protect test pending.** This comparison moves the two launcher-icon source files while retaining their content and 0.9.3's application logic, older dependencies and inline app label. [Verified 0.9.3](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.3) remains available. If Play Protect blocks this candidate, stop without overriding it; 0.9.3 will be restored as latest.
 
 ## Screenshots
 
-Actual 0.9.3 running in an isolated Android emulator with live public flight data. Times and details can change. Click an image for full size. The What's new themed-icon bullet is deliberately stale: this comparison removes themed-icon support while keeping Kotlin changes limited to its version identifier.
+Actual 0.9.4 running in an isolated Android emulator with live public flight data. Times and details can change. Click an image for full size. The What's new themed-icon bullet is deliberately stale: themed-icon support remains absent, and the old bullet is retained to keep this comparison limited to file locations and version identifiers.
 
 | Departures | Arrivals |
 | --- | --- |
-| <a href="images/v0.9.3/departures.png"><img src="images/v0.9.3/departures.png" alt="0.9.3 departure board" width="280"></a> | <a href="images/v0.9.3/arrivals.png"><img src="images/v0.9.3/arrivals.png" alt="0.9.3 arrival board" width="280"></a> |
+| <a href="images/v0.9.4/departures.png"><img src="images/v0.9.4/departures.png" alt="0.9.4 departure board" width="280"></a> | <a href="images/v0.9.4/arrivals.png"><img src="images/v0.9.4/arrivals.png" alt="0.9.4 arrival board" width="280"></a> |
 
 | Airport guide | What's new |
 | --- | --- |
-| <a href="images/v0.9.3/airport-guide.png"><img src="images/v0.9.3/airport-guide.png" alt="0.9.3 airport guide" width="280"></a> | <a href="images/v0.9.3/whats-new.png"><img src="images/v0.9.3/whats-new.png" alt="0.9.3 highlights with retained themed-icon text" width="280"></a> |
+| <a href="images/v0.9.4/airport-guide.png"><img src="images/v0.9.4/airport-guide.png" alt="0.9.4 airport guide" width="280"></a> | <a href="images/v0.9.4/whats-new.png"><img src="images/v0.9.4/whats-new.png" alt="0.9.4 highlights with retained themed-icon text" width="280"></a> |
 
 ## Install on your Android phone
 
