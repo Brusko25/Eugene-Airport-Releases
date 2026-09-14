@@ -9,4 +9,4 @@ The flight boards show live public airport data at capture time; details and tim
 - airport-guide.png: airport information categories.
 - whats-new.png: the 0.9.4 highlights. The themed-icon claim remains deliberately stale because this comparison changes only icon file locations and version identifiers; monochrome/themed-icon support remains absent.
 
-The 0.9.4 physical-phone update test is pending. Verified 0.9.3 remains available.
+Separately from these emulator screenshots, the ordinary physical-phone update from 0.9.3 to this exact 0.9.4 APK passed Play Protect (SAFE, then ALLOW) on September 14, 2026. Settings were preserved and the installed hash matched. Previous 0.9.3 remains available.
