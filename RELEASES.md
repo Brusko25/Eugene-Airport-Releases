@@ -6,6 +6,7 @@ All published versions are listed here. Dates are the original publication dates
 
 | Version | Originally published (UTC) | Download |
 | --- | --- | --- |
+| [v0.9.5 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.5) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.5/EUG-Airport-v0.9.5-debug.apk); phone Play Protect test pending |
 | [v0.9.4 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.4) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.4/EUG-Airport-v0.9.4-debug.apk); physical Pixel update passed Play Protect (SAFE) |
 | [v0.9.3](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.3) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.3/EUG-Airport-v0.9.3-debug.apk); physical Pixel update passed Play Protect (SAFE) |
 | [v0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk); physical Pixel update passed Play Protect |
@@ -25,4 +26,4 @@ briefly published on 2026-09-14, then withdrawn after Play Protect blocked insta
 on the physical test phone. No downloads of those builds are offered while the cause
 is investigated. Emulator compatibility checks did not predict the phone result.
 
-0.9.4 is the latest verified comparison build. Its ordinary in-app update from 0.9.3 passed Play Protect on the physical Pixel 8a (SAFE, then ALLOW), retained settings and installed the exact published APK. It relaunches normally, reports it is up to date and opens What's new from Settings. The icon-directory move alone did not reproduce the block in this test. Previous 0.9.3, 0.8.1 and 0.8.0 APKs remain available unchanged.
+0.9.5 is the latest comparison candidate with its phone test pending. 0.9.4 is the last verified build and will be restored as latest if 0.9.5 is blocked. Its ordinary in-app update from 0.9.3 passed Play Protect on the physical Pixel 8a (SAFE, then ALLOW), retained settings and installed the exact published APK. It relaunches normally, reports it is up to date and opens What's new from Settings. The icon-directory move alone did not reproduce the block in this test. Previous 0.9.3, 0.8.1 and 0.8.0 APKs remain available unchanged.
