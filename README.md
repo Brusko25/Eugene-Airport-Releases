@@ -3,9 +3,21 @@
 A free, unofficial Eugene Airport companion with live arrivals, departures, airport
 information, and food and drink menus.
 
-## Install on your Android phone
-
 **[Download EUG Airport 0.8.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.0/EUG-Airport-v0.8.0-debug.apk)**
+
+## Screenshots
+
+Screenshots from EUG Airport 0.8.0 running in an Android emulator. Flight details, times and menu prices reflect the captured screen and can change. Click any image to see it full size.
+
+| Departures | Arrivals |
+| --- | --- |
+| <a href="images/v0.8.0/departures.png"><img src="images/v0.8.0/departures.png" alt="Departure board with destinations, times, gates and flight status" width="280"></a> | <a href="images/v0.8.0/arrivals.png"><img src="images/v0.8.0/arrivals.png" alt="Arrival board with origins, times, gates and flight status" width="280"></a> |
+
+| Airport guide | Food and drink |
+| --- | --- |
+| <a href="images/v0.8.0/airport-guide.png"><img src="images/v0.8.0/airport-guide.png" alt="Airport guide with dining, parking, transport and accessibility" width="280"></a> | <a href="images/v0.8.0/dining.png"><img src="images/v0.8.0/dining.png" alt="Airport dining with cafe choices and breakfast menu" width="280"></a> |
+
+## Install on your Android phone
 
 1. Tap the download link on your Android phone.
 2. When it finishes, open the downloaded file.
