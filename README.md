@@ -2,9 +2,9 @@
 
 A free, unofficial Eugene Airport companion with live arrivals, departures, airport information, and food and drink menus.
 
-**[Download EUG Airport 0.9.3 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.3/EUG-Airport-v0.9.3-debug.apk)**
+**[Download EUG Airport 0.9.3](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.3/EUG-Airport-v0.9.3-debug.apk)**
 
-> **Latest test candidate: 0.9.3 — physical-phone Play Protect test pending.** This comparison restores 0.8's icons and label encoding while retaining 0.9.2's older dependencies and application logic. The last verified release is [0.8.1](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1). Builds 0.9.0, 0.9.1 and 0.9.2 were withdrawn after Play Protect blocked installation. If this candidate is blocked, stop and report it; do not override the block.
+> **Latest: 0.9.3 — update verified on the physical Pixel 8a.** The normal in-app update from 0.8.1 passed Play Protect with a SAFE verdict and installed successfully. Settings were retained, What's new appeared once, and the app reports it is up to date. This build retains the maintenance fixes and older dependencies while restoring the older icons and app label. [0.8.1](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1) remains available; 0.9.0, 0.9.1 and 0.9.2 remain withdrawn.
 
 ## Screenshots
 

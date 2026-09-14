@@ -9,4 +9,4 @@ These show the actual running app and live public airport flight data at capture
 - airport-guide.png: airport information categories.
 - whats-new.png: the 0.9.3 popup. Its themed-icon bullet is deliberately stale: this controlled comparison restores the older icons and removes themed-icon support. The bullet was retained because this test changes no Kotlin except the version string.
 
-This candidate has not yet completed its physical-phone update test. Verified 0.8.1 remains the recommended release until a later status says otherwise.
+The subsequent physical Pixel 8a update from 0.8.1 passed Play Protect with a SAFE verdict and installed 0.9.3 on September 14, 2026. Settings were retained and highlights appeared once. These screenshots themselves remain emulator captures.
