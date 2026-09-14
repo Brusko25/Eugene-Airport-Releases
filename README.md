@@ -3,22 +3,27 @@
 A free, unofficial Eugene Airport companion with live arrivals, departures, airport
 information, and food and drink menus.
 
-**[Download EUG Airport 0.8.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.0/EUG-Airport-v0.8.0-debug.apk)**
+**[Download EUG Airport 0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk)**
 
-> **Current release: 0.8.0.** Version 0.9 was withdrawn after Play Protect blocked
-> its real-phone installation test. It is unavailable while that result is investigated.
+> **Latest: 0.8.1 control build — physical-phone verification pending.** This contains
+> the 0.8 app with only version identifiers changed, to test its in-app update path.
+> It is an investigation build, not a confirmed fix. The previously verified
+> [0.8.0 download](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.0)
+> remains available. Version 0.9 is still withdrawn following its Play Protect block.
 
 ## Screenshots
 
-Screenshots from EUG Airport 0.8.0 running in an Android emulator. Flight details, times and menu prices reflect the captured screen and can change. Click any image to see it full size.
+Actual EUG Airport 0.8.1 running in an Android emulator. These previews do not establish
+physical-phone Play Protect acceptance. Flight details and times can change. Click an
+image to see it full size. The What's new bullets intentionally repeat 0.8's features.
 
 | Departures | Arrivals |
 | --- | --- |
-| <a href="images/v0.8.0/departures.png"><img src="images/v0.8.0/departures.png" alt="Departure board with destinations, times, gates and flight status" width="280"></a> | <a href="images/v0.8.0/arrivals.png"><img src="images/v0.8.0/arrivals.png" alt="Arrival board with origins, times, gates and flight status" width="280"></a> |
+| <a href="images/v0.8.1/departures.png"><img src="images/v0.8.1/departures.png" alt="0.8.1 departure board with destinations, times, gates and flight status" width="280"></a> | <a href="images/v0.8.1/arrivals.png"><img src="images/v0.8.1/arrivals.png" alt="0.8.1 arrival board with origins, times, gates and flight status" width="280"></a> |
 
-| Airport guide | Food and drink |
+| Airport guide | What's new |
 | --- | --- |
-| <a href="images/v0.8.0/airport-guide.png"><img src="images/v0.8.0/airport-guide.png" alt="Airport guide with dining, parking, transport and accessibility" width="280"></a> | <a href="images/v0.8.0/dining.png"><img src="images/v0.8.0/dining.png" alt="Airport dining with cafe choices and breakfast menu" width="280"></a> |
+| <a href="images/v0.8.1/airport-guide.png"><img src="images/v0.8.1/airport-guide.png" alt="0.8.1 airport guide with dining, parking, transport and accessibility" width="280"></a> | <a href="images/v0.8.1/whats-new.png"><img src="images/v0.8.1/whats-new.png" alt="What's new in 0.8.1 with the unchanged 0.8 feature summary" width="280"></a> |
 
 ## Install on your Android phone
 
@@ -33,7 +38,7 @@ Google Play. Follow any Android installation or security prompts.
 
 ## Updates and What's new
 
-Version **0.8.0** checks for a newer release when you open the app. Tap **Update** to
+Versions **0.8 and newer** check for a newer release when you open the app. Tap **Update** to
 download it inside EUG Airport, then follow any Android confirmation screens. On first
 use Android asks you to allow EUG Airport to install its updates. Update notifications
 are optional; they provide an easy way to reopen the app if Android closes it.
