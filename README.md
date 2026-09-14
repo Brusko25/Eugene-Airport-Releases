@@ -5,11 +5,12 @@ information, and food and drink menus.
 
 **[Download EUG Airport 0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk)**
 
-> **Latest: 0.8.1 control build — physical-phone verification pending.** This contains
-> the 0.8 app with only version identifiers changed, to test its in-app update path.
-> It is an investigation build, not a confirmed fix. The previously verified
-> [0.8.0 download](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.0)
-> remains available. Version 0.9 is still withdrawn following its Play Protect block.
+> **Latest: 0.8.1 — update verified on the physical Pixel 8a.** Play Protect returned
+> SAFE during the normal in-app update from 0.8.0. Installation succeeded, settings
+> were retained, and What's new appeared once. This control contains the 0.8 app
+> with only version identifiers changed; the cause of 0.9's block remains unresolved.
+> The [0.8.0 download](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.0)
+> remains available unchanged. Version 0.9 is still withdrawn.
 
 ## Screenshots
 
