@@ -6,7 +6,6 @@ All published versions are listed here. Dates are the original publication dates
 
 | Version | Originally published (UTC) | Download |
 | --- | --- | --- |
-| [v0.9.1 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.1) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.1/EUG-Airport-v0.9.1-debug.apk); phone verification pending |
 | [v0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk); physical Pixel update passed Play Protect |
 | [v0.8.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.0) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.0/EUG-Airport-v0.8.0-debug.apk) |
 | [v0.7.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.7.0) | 2026-09-13 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.7.0/EUG-Airport-v0.7.0-debug.apk) |
@@ -19,7 +18,11 @@ All published versions are listed here. Dates are the original publication dates
 
 ## Withdrawn builds
 
-0.9.0 was briefly published on 2026-09-14, then withdrawn after Play Protect blocked
-its installation on the physical test phone. The same APK had passed emulator checks.
-No 0.9.0 download is offered while that result is investigated. The new 0.9.1 comparison is separate. Version
-0.8.1 is a version-only control build whose physical Pixel update passed Play Protect; the verified 0.8.0 APK remains unchanged.
+0.9.0 and the version-only 0.9.1 comparison were briefly published on 2026-09-14,
+then withdrawn after Play Protect blocked installation on the physical test phone.
+No downloads of those builds are offered while the cause is investigated. Emulator
+compatibility checks did not predict the physical-phone result.
+
+0.8.1 is the latest release. Its normal in-app update passed Play Protect on the
+physical Pixel 8a, retained settings and showed What's new. The 0.8.0 APK remains
+available unchanged.
