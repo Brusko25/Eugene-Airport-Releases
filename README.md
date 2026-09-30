@@ -1,60 +1,79 @@
 # Eugene Airport Android app
 
-A free, unofficial Eugene Airport companion with live arrivals, departures, airport information, and food and drink menus.
+A free, unofficial Eugene Airport companion with live arrivals and departures,
+airport information, food and drink menus, and TSA travel guidance.
 
-**[Download EUG Airport 0.9.4 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.4/EUG-Airport-v0.9.4-debug.apk)**
+**[Download EUG Airport 1.0.0 for Android](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v1.0.0/EUG-Airport-v1.0.0-debug.apk)**
 
-> **Latest verified build: 0.9.4.** The ordinary in-app update from 0.9.3 passed Play Protect on the test Pixel 8a (SAFE, installation allowed), preserved settings and installed the exact published APK. This comparison moves the two unchanged launcher-icon source files; it did not reproduce the earlier block. [Previous 0.9.3](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.3) remains available.
-
-Version 0.9.5 was withdrawn after Play Protect blocked the physical-phone update. The tested 0.9.4 APK remains the current download.
+Android 8.0 or newer. This is a GitHub testing build distributed outside Google Play.
 
 ## Screenshots
 
-Actual 0.9.4 running in an isolated Android emulator with live public flight data. Times and details can change. Click an image for full size. The What's new themed-icon bullet is deliberately stale: themed-icon support remains absent, and the old bullet is retained to keep this comparison limited to file locations and version identifiers.
+Actual version 1.0.0/code 19 in an isolated Android 11 emulator, with live public
+flight data. Times and details shown are from the capture and can change. Click
+an image for full size.
 
-| Departures | Arrivals |
+| Arrivals | Airport guide |
 | --- | --- |
-| <a href="images/v0.9.4/departures.png"><img src="images/v0.9.4/departures.png" alt="0.9.4 departure board" width="280"></a> | <a href="images/v0.9.4/arrivals.png"><img src="images/v0.9.4/arrivals.png" alt="0.9.4 arrival board" width="280"></a> |
+| <a href="images/v1.0.0/flights.png"><img src="images/v1.0.0/flights.png" alt="EUG Airport 1.0 arrivals board" width="280"></a> | <a href="images/v1.0.0/airport.png"><img src="images/v1.0.0/airport.png" alt="EUG Airport 1.0 guide with TSA and dining" width="280"></a> |
 
-| Airport guide | What's new |
+| TSA & Travel Rules | What's new |
 | --- | --- |
-| <a href="images/v0.9.4/airport-guide.png"><img src="images/v0.9.4/airport-guide.png" alt="0.9.4 airport guide" width="280"></a> | <a href="images/v0.9.4/whats-new.png"><img src="images/v0.9.4/whats-new.png" alt="0.9.4 highlights with retained themed-icon text" width="280"></a> |
+| <a href="images/v1.0.0/tsa.png"><img src="images/v1.0.0/tsa.png" alt="EUG Airport 1.0 TSA and REAL ID guidance" width="280"></a> | <a href="images/v1.0.0/whats-new.png"><img src="images/v1.0.0/whats-new.png" alt="EUG Airport 1.0 release highlights" width="280"></a> |
 
 ## Install on your Android phone
 
-1. Tap the download link on your Android phone.
-2. When it finishes, open the downloaded file.
+1. Tap **Download EUG Airport 1.0.0** above.
+2. Open the downloaded APK file.
 3. If Android asks, allow your browser to install this app, then tap **Install**.
 4. Open **EUG Airport**.
 
-Already have it? Install the update over the existing app; you do not need to uninstall.
-These are debug-signed testing builds for Android 8.0 and newer, distributed outside
-Google Play. Follow any Android installation or security prompts.
+Already have a previous GitHub version? Install this APK over the existing app;
+you normally do not need to uninstall. It uses the same development signing key.
+Follow Android's installation and security prompts.
 
-## Updates and What's new
+## What's new in 1.0
 
-Versions **0.8 and newer** check for a newer release when you open the app. Tap **Update** to
-download it inside EUG Airport, then follow any Android confirmation screens. On first
-use Android asks you to allow EUG Airport to install its updates. Update notifications
-are optional; they provide an easy way to reopen the app if Android closes it.
+- TSA & Travel Rules: offline guidance about REAL ID, liquids, medicines,
+  children, packing, batteries and screening, with official TSA/FAA links.
+- Portrait layout on phones, larger-text improvements and scrollable flight details.
+- Navigation stays on the current page when Android recreates the app screen.
+- Updated airport menu capitalization and removed the Eat & Drink phone number.
+- Settings displays the current version. The built-in updater and installer are removed.
+- What's new still appears once per installed version and is available again in Settings.
 
-What's new appears once after each new version is installed. You can read it again
-under **Settings → App updates → What's new**.
+## Getting future updates
 
-If you still have **0.6 or 0.7**, use **Settings → App updates** to download 0.8 through
-your browser once. Future updates initiated from 0.8 can use the new in-app flow.
+**Version 1.0 does not check for or install updates inside the app.** Return to the
+[latest release page](https://github.com/Brusko25/Eugene-Airport-Releases/releases/latest)
+and install a newer APK manually when one is available.
 
-[Latest release and notes](https://github.com/Brusko25/Eugene-Airport-Releases/releases/latest)
+Google Play publication is planned separately. This GitHub installation is not a
+Play Store installation; Play-managed updates will require the future Play version.
 
-> This is an unofficial prototype. Always confirm flight information with your airline.
+## Testing and known limitations
+
+All 50 local emulator configurations passed their eight checks (400 test executions),
+and 13 unit tests passed. The same APK was installed on a Pixel 8a through ADB with
+saved settings preserved. These are emulator configurations, not 50 physical models;
+the checks do not establish a new Play Protect verdict or Play Store approval.
+
+On an offline cold start, the header may still say Connecting alongside the correct
+flight-service error and retry button. TSA guidance works offline; official links
+need internet. Portrait requests can be overridden by Android on large displays.
+
+This is an unofficial prototype. Always confirm flight information with your airline
+and current travel requirements with the linked official sources.
 
 ## Previous versions and source
 
-[Browse every release](RELEASES.md). Versions 0.3.0 and 0.4.0 have historical notes
-only; their original releases did not include APKs. Versions 0.4.1 and newer include
-Android downloads.
+[Release notes and checksum](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v1.0.0)
+· [Browse release history](RELEASES.md).
 
-This public repository contains releases and documentation. Application source is
-maintained separately in the private `Eugene-Airport-Code` repository. To install,
-choose an APK. GitHub's automatic Source code ZIP and tar.gz contain only this public
-repository's documentation.
+Historical downloads are preserved. Version 0.9.5 and other withdrawn comparisons
+remain withdrawn; their history and the earlier 0.9.4 phone result are in the release index.
+
+This public repository contains release documentation, screenshots and APK assets.
+Application source is maintained in the private Eugene-Airport-Code repository.
+To install the app, choose the APK. GitHub's automatic Source code ZIP and tar.gz
+contain only this public repository's documentation and images.

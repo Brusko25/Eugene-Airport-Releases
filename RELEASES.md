@@ -6,6 +6,7 @@ All published versions are listed here. Dates are the original publication dates
 
 | Version | Originally published (UTC) | Download |
 | --- | --- | --- |
+| [v1.0.0](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v1.0.0) | 2026-09-30 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v1.0.0/EUG-Airport-v1.0.0-debug.apk); TSA guide, portrait layout, large-text fixes and version-only settings; future GitHub updates are manual |
 | [v0.9.4 comparison build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.4) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.4/EUG-Airport-v0.9.4-debug.apk); physical Pixel update passed Play Protect (SAFE) |
 | [v0.9.3](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.9.3) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.9.3/EUG-Airport-v0.9.3-debug.apk); physical Pixel update passed Play Protect (SAFE) |
 | [v0.8.1 control build](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v0.8.1) | 2026-09-14 | [Android APK](https://github.com/Brusko25/Eugene-Airport-Releases/releases/download/v0.8.1/EUG-Airport-v0.8.1-debug.apk); physical Pixel update passed Play Protect |
