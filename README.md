@@ -70,8 +70,8 @@ and current travel requirements with the linked official sources.
 [Release notes and checksum](https://github.com/Brusko25/Eugene-Airport-Releases/releases/tag/v1.0.0)
 · [Browse release history](RELEASES.md).
 
-Historical downloads are preserved. Version 0.9.5 and other withdrawn comparisons
-remain withdrawn; their history and the earlier 0.9.4 phone result are in the release index.
+Older test and comparison builds (0.3.0 to 0.9.5) were removed on November 7, 2026;
+v1.0.0 is the GitHub download.
 
 This public repository contains release documentation, screenshots and APK assets.
 Application source is maintained in the private Eugene-Airport-Code repository.
